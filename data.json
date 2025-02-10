@@ -1,0 +1,689 @@
+{
+  "version": "1.0.0",
+  "week": "10-14.2.2025",
+  "lastUpdate": "2025-02-10T08:08:07.081Z",
+  "summary": {
+    "totalTasks": 63,
+    "developers": [
+      "Jakub Bláha",
+      "Jakub Bárta",
+      "Jakub Paidar",
+      "Lenka Půtová",
+      "Marek Langer",
+      "Michal Zrcek",
+      "Miroslav Přenosil",
+      "Monika Forbakova",
+      "Ondřej Tolg",
+      "Zdeněk Kaipr"
+    ],
+    "projects": [
+      "BezKarbonu",
+      "CarSoul",
+      "Cleany",
+      "Dentamed",
+      "ICR",
+      "InterBohemia",
+      "Intercroatia",
+      "Invital",
+      "Notino",
+      "Nutric Bistro",
+      "OBS",
+      "Ronda Invest",
+      "Skladent",
+      "Sport in Art",
+      "TisknuLevně",
+      "proHost"
+    ],
+    "priorities": [
+      "High",
+      "Normal",
+      "Semi"
+    ],
+    "statuses": [
+      "Done",
+      "Ready for review",
+      "Ready to dev",
+      "Wait",
+      "Work in progress"
+    ]
+  },
+  "tasks": [
+    {
+      "Název úkolu": "[6] Mobilní výpis produktů na kategorii",
+      "Projekt": "Dentamed",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Jakub Bárta",
+      "Priorita": "Normal",
+      "Stav": "Done",
+      "url": ""
+    },
+    {
+      "Název úkolu": "[Admin] Generování štítků pro 468 produktů selže",
+      "Projekt": "Dentamed",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Jakub Bárta",
+      "Priorita": "Normal",
+      "Stav": "Done",
+      "url": ""
+    },
+    {
+      "Název úkolu": "[14+2] Generali - LandingPage Běhej lesy",
+      "Projekt": "Sport in Art",
+      "Projektový manažer": "Ondřej Tolg",
+      "Vývojář": "Jakub Bárta",
+      "Priorita": "Normal",
+      "Stav": "Done",
+      "url": ""
+    },
+    {
+      "Název úkolu": "[4] Vysvětlení konceptu jen 3  jidel denne",
+      "Odhad": 1,
+      "Projekt": "Nutric Bistro",
+      "Projektový manažer": "Zděněk Kaipr",
+      "Vývojář": "Jakub Bárta",
+      "Priorita": "Normal",
+      "Stav": "Work in progress",
+      "Vývojář_1": "Jakub Bláha",
+      "Týdení kapacita (h)": "24/32",
+      "url": "https://app.asana.com/0/1205007552393778/1209296690356191"
+    },
+    {
+      "Název úkolu": "Reinit migrací + zaverzování překladů z produkce",
+      "Projekt": "Invital",
+      "Projektový manažer": "Ondřej Tolg",
+      "Vývojář": "Jakub Bláha",
+      "Priorita": "Normal",
+      "Stav": "Done",
+      "url": ""
+    },
+    {
+      "Název úkolu": "LiftTago stavy a Cleany Boxy",
+      "Projekt": "Cleany",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Jakub Bláha",
+      "Priorita": "Semi",
+      "Stav": "Done",
+      "Poznámka": "Je třeba probrat se zákazníkem",
+      "url": ""
+    },
+    {
+      "Název úkolu": "[APP] Štítky - diakritika a font",
+      "Odhad": 2,
+      "Projekt": "Skladent",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Jakub Bláha",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "Vývojář_1": "Jakub Paidar",
+      "Týdení kapacita (h)": "17/30",
+      "url": "https://app.asana.com/0/1127140004483140/1209329103200862"
+    },
+    {
+      "Název úkolu": "Paypal",
+      "Projekt": "Invital",
+      "Projektový manažer": "Ondřej Tolg",
+      "Vývojář": "Jakub Bláha",
+      "Priorita": "Semi",
+      "Stav": "Work in progress",
+      "url": ""
+    },
+    {
+      "Název úkolu": "Úprava subproduktů - fotografie a typ",
+      "Projekt": "Invital",
+      "Projektový manažer": "Ondřej Tolg",
+      "Vývojář": "Jakub Bláha",
+      "Priorita": "Semi",
+      "Stav": "Wait",
+      "Poznámka": "Blazik: tohle čeká na výstup od zkz",
+      "url": ""
+    },
+    {
+      "Název úkolu": "Analýza Sentry 22.11.2024",
+      "Projekt": "Invital",
+      "Projektový manažer": "Ondřej Tolg",
+      "Vývojář": "Jakub Bláha",
+      "Priorita": "Normal",
+      "Stav": "Wait",
+      "Poznámka": "Blaziku, mrkni do tasku a jeho subtásků, pojďme úkol dořešit a zavřít. Buď připravit fixy, nebo napsat do subtaků, že nemusíme řešit a úkoly pozavírat",
+      "url": ""
+    },
+    {
+      "Název úkolu": "Globální unifikace obrázků",
+      "Projekt": "Invital",
+      "Projektový manažer": "Ondřej Tolg",
+      "Vývojář": "Jakub Bláha",
+      "Priorita": "Normal",
+      "Stav": "Wait",
+      "Poznámka": "Blaziku mrkni na toto, mrkni na videjko, zkus to navnímat a pochopit. Pak mi napiš a dohodneme další postup - bude to asi nějakej teda jednorázovej script.",
+      "url": ""
+    },
+    {
+      "Název úkolu": "Přesunout input \"Pojišťovna\" do sekce \"Co obsahuje splátka\"",
+      "Projekt": "CarSoul",
+      "Projektový manažer": "Jan Tolg",
+      "Vývojář": "Jakub Paidar",
+      "Priorita": "Semi",
+      "Stav": "Done",
+      "url": ""
+    },
+    {
+      "Název úkolu": "[Admin] Vrácení na sklad - chyba v reportech",
+      "Projekt": "Dentamed",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Jakub Paidar",
+      "Priorita": "Semi",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1127140004483140/1209118435190108"
+    },
+    {
+      "Název úkolu": "[App] Nastavení práv a reakce aplikace",
+      "Odhad": 0.5,
+      "Projekt": "Skladent",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Jakub Bárta",
+      "Priorita": "Normal",
+      "Stav": "Ready for review",
+      "Poznámka": "Merge & Deploy",
+      "Vývojář_1": "Lenka Půtová",
+      "Týdení kapacita (h)": "30",
+      "url": "https://app.asana.com/0/1127140004483140/1209123015185150"
+    },
+    {
+      "Název úkolu": "[Admin] Vrácení na sklad - chyba v reportech",
+      "Odhad": 1,
+      "Projekt": "Skladent",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Michal Zrcek",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "Vývojář_1": "Zdeněk Kaipr",
+      "Týdení kapacita (h)": "8",
+      "url": "https://app.asana.com/0/1127140004483140/1209118435190108"
+    },
+    {
+      "Název úkolu": "[APP] Inventura",
+      "Odhad": 2,
+      "Projekt": "Skladent",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Michal Zrcek",
+      "Priorita": "High",
+      "Stav": "Ready to dev",
+      "Vývojář_1": "Jakub Bárta",
+      "Týdení kapacita (h)": "4/8",
+      "url": "https://app.asana.com/0/1203390058531183/1206347318865486"
+    },
+    {
+      "Název úkolu": "[1] Projít dotazy",
+      "Odhad": 1,
+      "Projekt": "Skladent",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Jakub Bárta",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "Poznámka": "Projít komentáře od Luboše",
+      "Vývojář_1": "Ondřej Tolg",
+      "url": "https://app.asana.com/0/1203390058531183/1209069050469766"
+    },
+    {
+      "Název úkolu": "[Admin] Doporučené počty k objednání",
+      "Odhad": 2,
+      "Projekt": "Skladent",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Marek Langer",
+      "Priorita": "High",
+      "Stav": "Ready to dev",
+      "Vývojář_1": "Michal Zrcek",
+      "Týdení kapacita (h)": "5/25",
+      "url": "https://app.asana.com/0/1203390058531183/1209329819399136"
+    },
+    {
+      "Název úkolu": "[Admin] Špatný detail objednávky",
+      "Odhad": 2,
+      "Projekt": "Skladent",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Marek Langer",
+      "Priorita": "High",
+      "Stav": "Ready to dev",
+      "Vývojář_1": "Miroslav Přenosil",
+      "Týdení kapacita (h)": "9/25",
+      "url": "https://app.asana.com/0/1203390058531183/1209357823829478"
+    },
+    {
+      "Název úkolu": "[Admin] Špatná identifikace produktu k objednání",
+      "Odhad": 2,
+      "Projekt": "Skladent",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Marek Langer",
+      "Priorita": "High",
+      "Stav": "Ready to dev",
+      "Vývojář_1": "Marek Langer",
+      "Týdení kapacita (h)": "14/32",
+      "url": "https://app.asana.com/0/1203390058531183/1209357823829481"
+    },
+    {
+      "Název úkolu": "[Admin] Špatná cena v přehledu objednávek",
+      "Odhad": 2,
+      "Projekt": "Skladent",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Marek Langer",
+      "Priorita": "High",
+      "Stav": "Ready to dev",
+      "Vývojář_1": "Monika Forbaková",
+      "Týdení kapacita (h)": "26/30",
+      "url": "https://app.asana.com/0/1203390058531183/1209357823829486"
+    },
+    {
+      "Název úkolu": "[Admin] Štítek produktu po kusech má mít jinou barvu ",
+      "Odhad": 1,
+      "Projekt": "Skladent",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Jakub Bárta",
+      "Priorita": "Semi",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1203390058531183/1209329106024789"
+    },
+    {
+      "Název úkolu": "[16] P3 - CMS - Naskladňování cizí objednávy",
+      "Odhad": 2,
+      "Projekt": "Skladent",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Marek Langer",
+      "Priorita": "Semi",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1203390058531183/1208823863815093"
+    },
+    {
+      "Název úkolu": "[16] P3 - APP - Naskladnění cizí objednávky",
+      "Odhad": 16,
+      "Projekt": "Skladent",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Michal Zrcek",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1203390058531183/1208824003447722"
+    },
+    {
+      "Název úkolu": "[13] [Admin] Úprava dat - vícepráce",
+      "Odhad": 13,
+      "Projekt": "Skladent",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Jakub Paidar",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "Poznámka": "Pečlivě projít zadání + případně naplánovat meet",
+      "url": "https://app.asana.com/0/1203390058531183/1209252437080570"
+    },
+    {
+      "Název úkolu": "[40] Hotelové kurzy",
+      "Odhad": 8,
+      "Projekt": "proHost",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Marek Langer",
+      "Priorita": "Semi",
+      "Stav": "Work in progress",
+      "url": "https://app.asana.com/0/1203821138010713/1208794729291387"
+    },
+    {
+      "Název úkolu": "[2] Promazávat tabulku \"product_price\"",
+      "Odhad": 2,
+      "Projekt": "TisknuLevně",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Jakub Bláha",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1127140004483140/1209337789019655"
+    },
+    {
+      "Název úkolu": "Špatné zobrazení detailu prodejny",
+      "Odhad": 1,
+      "Projekt": "TisknuLevně",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Jakub Bárta",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1127140004483140/1209340000575400"
+    },
+    {
+      "Název úkolu": "[4+1] Problém s poplatky 2",
+      "Odhad": 4,
+      "Projekt": "ICR",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Monika Forbakova",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1127140004483140/1209169456063204"
+    },
+    {
+      "Název úkolu": "[16] P3 - CMS - Naskladňování cizí objednávy",
+      "Projekt": "Dentamed",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Marek Langer",
+      "Priorita": "Normal",
+      "Stav": "Work in progress",
+      "url": "https://app.asana.com/0/1203390058531183/1208823863815093"
+    },
+    {
+      "Název úkolu": "[48] Fakturoid API v3",
+      "Projekt": "proHost",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Marek Langer",
+      "Priorita": "Semi",
+      "Stav": "Done",
+      "Poznámka": "Je třeba implementaci otestovat a ve středu nasadit",
+      "url": ""
+    },
+    {
+      "Název úkolu": "[40] Hotelové kurzy",
+      "Projekt": "proHost",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Marek Langer",
+      "Priorita": "Semi",
+      "Stav": "Work in progress",
+      "url": "https://app.asana.com/0/1203821138010713/1208794729291387"
+    },
+    {
+      "Název úkolu": "[App] Vracení zboží ze spotřeby - přetékání",
+      "Projekt": "Dentamed",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Michal Zrcek",
+      "Priorita": "Normal",
+      "Stav": "Done",
+      "url": ""
+    },
+    {
+      "Název úkolu": "[App] Nastavení práv a reakce aplikace",
+      "Projekt": "Dentamed",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Michal Zrcek",
+      "Priorita": "Normal",
+      "Stav": "Work in progress",
+      "url": "https://app.asana.com/0/1127140004483140/1209123015185150"
+    },
+    {
+      "Název úkolu": "[16] P3 - APP - Naskladnění cizí objednávky",
+      "Projekt": "Dentamed",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Michal Zrcek",
+      "Priorita": "Normal",
+      "Stav": "Wait",
+      "Poznámka": "Tata úprava je blokována",
+      "url": "https://app.asana.com/0/1203390058531183/1208824003447722"
+    },
+    {
+      "Název úkolu": "Nefunkční kódy na štítcích",
+      "Projekt": "Dentamed",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Michal Zrcek",
+      "Priorita": "Semi",
+      "Stav": "Ready for review",
+      "url": ""
+    },
+    {
+      "Název úkolu": "[20 + 1,5] Natažení recenzí z AG",
+      "Projekt": "Intercroatia",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Miroslav Přenosil",
+      "Priorita": "Semi",
+      "Stav": "Work in progress",
+      "Poznámka": "Je třeba odpovědět zkz na dotazy",
+      "url": "https://app.asana.com/0/1127140004483140/1209151024574275"
+    },
+    {
+      "Název úkolu": "[10] Správci systému",
+      "Projekt": "OBS",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Miroslav Přenosil",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": ""
+    },
+    {
+      "Název úkolu": "Rich snippety",
+      "Projekt": "Invital",
+      "Projektový manažer": "Ondřej Tolg",
+      "Vývojář": "Miroslav Přenosil",
+      "Priorita": "Semi",
+      "Stav": "Work in progress",
+      "url": ""
+    },
+    {
+      "Název úkolu": "[2] Přidat VIN",
+      "Projekt": "CarSoul",
+      "Projektový manažer": "Jan Tolg",
+      "Vývojář": "Monika Forbakova",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": ""
+    },
+    {
+      "Název úkolu": "[1+5] Cena ve výpisu objektů",
+      "Projekt": "Intercroatia",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Monika Forbakova",
+      "Priorita": "Semi",
+      "Stav": "Work in progress",
+      "Poznámka": "Je třeba odpovědět zkz na dotazy",
+      "url": ""
+    },
+    {
+      "Název úkolu": "[20 + 1,5] Natažení recenzí z AG",
+      "Odhad": 1,
+      "Projekt": "ICR",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Miroslav Přenosil",
+      "Priorita": "Semi",
+      "Stav": "Ready for review",
+      "Poznámka": "Je třeba dopřeložit nepřeložené reference",
+      "url": "https://app.asana.com/0/1127140004483140/1209151024574275"
+    },
+    {
+      "Název úkolu": "Zadání magazín 2.0",
+      "Projekt": "Sport in Art",
+      "Projektový manažer": "Ondřej Tolg",
+      "Vývojář": "Monika Forbakova",
+      "Priorita": "High",
+      "Stav": "Done",
+      "Poznámka": "Tento týden finalizace a deploy / support při deployi.",
+      "url": ""
+    },
+    {
+      "Název úkolu": "Slevové kódy",
+      "Projekt": "Sport in Art",
+      "Projektový manažer": "Ondřej Tolg",
+      "Vývojář": "Monika Forbakova",
+      "Priorita": "Semi",
+      "Stav": "Work in progress",
+      "Poznámka": "Tento týden vykopnout úpravy, udělat briefing.",
+      "url": ""
+    },
+    {
+      "Název úkolu": "Facebook katalog - priorita 2",
+      "Projekt": "InterBohemia",
+      "Projektový manažer": "Ondřej Tolg",
+      "Vývojář": "Monika Forbakova",
+      "Priorita": "Semi",
+      "Stav": "Work in progress",
+      "url": ""
+    },
+    {
+      "Název úkolu": "Úprava výpočtu ceny v kalendáři - chybný výpočet na základě stálého ceníku",
+      "Projekt": "InterBohemia",
+      "Projektový manažer": "Ondřej Tolg",
+      "Vývojář": "Monika Forbakova",
+      "Priorita": "Semi",
+      "Stav": "Work in progress",
+      "Poznámka": "Mončo tady jsem tu úpravu započal a asi ty bys ji mohla dokončit.",
+      "url": ""
+    },
+    {
+      "Název úkolu": "[7,5] služby navíc do obj. form.",
+      "Odhad": 1,
+      "Projekt": "BezKarbonu",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Jakub Bárta",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1204831245214328/1209206075626598"
+    },
+    {
+      "Název úkolu": "Úprava filtrace - priorita 2",
+      "Projekt": "InterBohemia",
+      "Projektový manažer": "Ondřej Tolg",
+      "Vývojář": "Ondřej Tolg",
+      "Priorita": "High",
+      "Stav": "Work in progress",
+      "url": ""
+    },
+    {
+      "Název úkolu": "[16] Uživatelé",
+      "Odhad": 16,
+      "Projekt": "OBS",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Miroslav Přenosil",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1209233522961688/1209360323738803"
+    },
+    {
+      "Název úkolu": "[4] RAMS API",
+      "Odhad": 4,
+      "Projekt": "OBS",
+      "Projektový manažer": "Jakub Bárta",
+      "Vývojář": "Jakub Bláha",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1209233522961688/1209360323738807"
+    },
+    {
+      "Název úkolu": "[2] Drobnosti vizuální ",
+      "Odhad": 2,
+      "Projekt": "Nutric Bistro",
+      "Projektový manažer": "Zděněk Kaipr",
+      "Vývojář": "Lenka Půtová",
+      "Priorita": "High",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1205007552393778/1209357520890136"
+    },
+    {
+      "Název úkolu": "Submenu na HP - priorita 4",
+      "Projekt": "InterBohemia",
+      "Projektový manažer": "Ondřej Tolg",
+      "Vývojář": "Monika Forbakova",
+      "Priorita": "High",
+      "Stav": "Work in progress",
+      "url": ""
+    },
+    {
+      "Název úkolu": "Submenu na HP - priorita 4",
+      "Projekt": "InterBohemia",
+      "Projektový manažer": "Ondřej Tolg",
+      "Vývojář": "Zdeněk Kaipr",
+      "Priorita": "High",
+      "Stav": "Work in progress",
+      "url": ""
+    },
+    {
+      "Název úkolu": "[2] Vydefinovat které metody z API v1 používáme",
+      "Odhad": 2,
+      "Projekt": "Nutric Bistro",
+      "Projektový manažer": "Zděněk Kaipr",
+      "Vývojář": "Jakub Bláha",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "Poznámka": "Kdyžtak pls konzultovat s Ondrou",
+      "url": "https://app.asana.com/0/1205007552393778/1209357570770205"
+    },
+    {
+      "Název úkolu": "[??] Filtrování jídel || [??] Implementace || [??] BE",
+      "Odhad": "??",
+      "Projekt": "Nutric Bistro",
+      "Projektový manažer": "Zděněk Kaipr",
+      "Vývojář": "Jakub Bláha",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1205007552393778/1209357452136351"
+    },
+    {
+      "Název úkolu": "[??] Filtrování jídel || [??] Implementace || [5] FE",
+      "Odhad": 5,
+      "Projekt": "Nutric Bistro",
+      "Projektový manažer": "Zděněk Kaipr",
+      "Vývojář": "Lenka Půtová",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1205007552393778/1209357452136352"
+    },
+    {
+      "Název úkolu": "[5] Zjednodušení formuláře || #45200",
+      "Odhad": 5,
+      "Projekt": "Nutric Bistro",
+      "Projektový manažer": "Zděněk Kaipr",
+      "Vývojář": "Lenka Půtová",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1205007552393778/1209271887997346"
+    },
+    {
+      "Název úkolu": "[5] #43682 [menu] - zobrazit nejak kompletni slozeni jidel || [4] Stylování výpisu",
+      "Odhad": 4,
+      "Projekt": "Nutric Bistro",
+      "Projektový manažer": "Zděněk Kaipr",
+      "Vývojář": "Lenka Půtová",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1205007552393778/1209357452136358"
+    },
+    {
+      "Název úkolu": "[2 + ?] Změna data podepsání dohody po podpisu dodatku",
+      "Odhad": 4,
+      "Projekt": "Ronda Invest",
+      "Projektový manažer": "Zděněk Kaipr",
+      "Vývojář": "Jakub Paidar",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1202244058826632/1209260164560338"
+    },
+    {
+      "Název úkolu": "[7] Optimalizace nahrávaných img na Backenedu ",
+      "Odhad": 7,
+      "Projekt": "Ronda Invest",
+      "Projektový manažer": "Zděněk Kaipr",
+      "Vývojář": "Jakub Paidar",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1202244058826632/1209201389433286"
+    },
+    {
+      "Název úkolu": "[14] E-maily pro klienty bez aktivní participace",
+      "Odhad": 8,
+      "Projekt": "Ronda Invest",
+      "Projektový manažer": "Zděněk Kaipr",
+      "Vývojář": "Jakub Paidar",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "url": "https://app.asana.com/0/1202244058826632/1209137523744410"
+    },
+    {
+      "Název úkolu": "[26 + ?] Potvrzení z emailů do CRM",
+      "Odhad": 8,
+      "Projekt": "Ronda Invest",
+      "Projektový manažer": "Zděněk Kaipr",
+      "Vývojář": "Jakub Paidar",
+      "Priorita": "Normal",
+      "Stav": "Ready to dev",
+      "Poznámka": "Do odhadu sem dal 8 = plánoval bych že se na tom oddělá tento týden 8h",
+      "url": "https://app.asana.com/0/1202244058826632/1209288584863729"
+    },
+    {
+      "Název úkolu": "Adhoc Cally / fixy / tasky ",
+      "Odhad": 5,
+      "Projekt": "Notino",
+      "Projektový manažer": "Zděněk Kaipr",
+      "Vývojář": "Jakub Paidar",
+      "Priorita": "Normal",
+      "Stav": "Wait",
+      "Poznámka": "Dal jsem 5 hodin jako vyblokování případný potřebný kapacity ",
+      "url": ""
+    }
+  ]
+}
